@@ -11,7 +11,7 @@ export default function Home(props) {
     <>
         <div className="container">
             <div className="d-flex justify-content-between mt-5">
-              <h1 className='text-start fs-3 font-monospace'>Article Decor</h1>
+              <h1 className='text-start fs-3 font-monospace'>Article home</h1>
               <button className='text-end btn btn-outline-warning ' >Filter</button>
             </div>
         </div>
