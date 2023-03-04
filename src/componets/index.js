@@ -1,0 +1,6 @@
+export {default as Nav}      from '../componets/asset/navbar/Nav'
+export {default as Footer}   from'../componets/asset/footer/Footer'
+export {default as Home}     from '../page/Home/Home'
+export {default as Tote_bag} from '../page/Tote-bag/Tote_bag'
+export {default as Princing} from '../page/Princing/Princing'
+export {default as Product}  from '../page/product/Product'
